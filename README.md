@@ -85,3 +85,19 @@ The following are some examples of what the app does:
 - Expand the database schema to handle more complex relationships.
 - Implement more functional patterns, such as applicatives or higher-kinded types.
 - Improve user interface and add a graphical UI.
+
+- ## Author
+
+This project was created by [Gitrep77](https://github.com/Gitrep77). If you find it helpful, feel free to give a star on the repository!
+
+## Support
+
+For issues or questions, open an issue on the [GitHub repository](https://github.com/Gitrep77/FunctionalStudentApp/issues).
+
+## Contributing
+
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
