@@ -1,5 +1,5 @@
 
-# StudentApp [Functional Programming]
+# StudentApp
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![C# Version](https://img.shields.io/badge/C%23-7.0-blue)
