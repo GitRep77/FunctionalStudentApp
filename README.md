@@ -1,6 +1,11 @@
 
 # StudentApp [Functional Programming]
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![C# Version](https://img.shields.io/badge/C%23-7.0-blue)
+![.NET Version](https://img.shields.io/badge/.NET-4.7.2-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 ### Overview
 `StudentApp` is an experimental project developed to explore functional programming techniques in C#. The goal of this application is to experiment with functional patterns such as immutability, pure functions, and language constructs like `Either` and `Option` monads from the `LanguageExt` library. The application performs various database operations related to students, subjects, and marks, and it incorporates cryptography utilities as well as various extension methods to facilitate functional programming approaches.
 
