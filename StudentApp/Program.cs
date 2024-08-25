@@ -10,6 +10,11 @@ namespace StudentApp
     {
         static void Main(string[] args)
         {
+#if NET472
+        Console.WriteLine("C# 7.3 is likely being used.");
+#else
+            Console.WriteLine("A different version of C# is in use.");
+#endif
 
             #region Test Code
             Console.WriteLine("\n----------------------SQL.Initialise");
