@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StudentApp_FunctionalProgramming_.Extensions
+namespace StudentApp.Extensions
 {
     /// <summary>
     /// Existing Unit Test

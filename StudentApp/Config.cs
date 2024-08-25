@@ -1,4 +1,4 @@
-﻿namespace StudentApp_FunctionalProgramming_
+﻿namespace StudentApp
 {
     public static class Config
     {

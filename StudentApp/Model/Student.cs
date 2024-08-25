@@ -2,7 +2,7 @@
 using LanguageExt;
 using System.Data;
 
-namespace StudentApp_FunctionalProgramming_.Model
+namespace StudentApp.Model
 {
     public class Student : Record<Student>
     {

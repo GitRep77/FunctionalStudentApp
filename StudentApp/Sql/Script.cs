@@ -1,6 +1,6 @@
 ﻿using static LanguageExt.Prelude;
 
-namespace StudentApp_FunctionalProgramming_.Sql
+namespace StudentApp.Sql
 {
     public static class Script
     {

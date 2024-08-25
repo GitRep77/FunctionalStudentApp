@@ -1,10 +1,10 @@
 ﻿using NUnit.Framework;
 using System;
 using System.IO;
-using static StudentApp_FunctionalProgramming_.Prelude;
+using static StudentApp.Prelude;
 
 
-namespace StudentApp_FunctionalProgramming_.Tests
+namespace StudentApp.Tests
 {
     [TestFixture()]
     public class StringExtensions_Test

@@ -3,7 +3,7 @@ using System.IO;
 using LanguageExt;
 using static LanguageExt.Prelude;
 
-namespace StudentApp_FunctionalProgramming_
+namespace StudentApp
 {
     public static class Prelude
     {

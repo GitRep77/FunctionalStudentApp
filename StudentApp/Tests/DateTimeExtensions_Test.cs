@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using System;
 
-namespace StudentApp_FunctionalProgramming_.Tests
+namespace StudentApp.Tests
 {
     [TestFixture()]
     public class DateTimeExtensions_Test

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Windows.Forms;
-using StudentApp_FunctionalProgramming_.Extensions;
-using StudentApp_FunctionalProgramming_.Model;
-using StudentApp_FunctionalProgramming_.Sql;
+using StudentApp.Extensions;
+using StudentApp.Model;
+using StudentApp.Sql;
 
-namespace StudentApp_FunctionalProgramming_
+namespace StudentApp
 {
     class Program
     {

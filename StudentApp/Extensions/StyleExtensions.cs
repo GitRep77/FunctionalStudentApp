@@ -1,8 +1,8 @@
 ﻿using System.Windows.Forms;
 using System.Drawing;
-using static StudentApp_FunctionalProgramming_.Prelude;
+using static StudentApp.Prelude;
 
-namespace StudentApp_FunctionalProgramming_.Extensions
+namespace StudentApp.Extensions
 {
     public static class StyleExtensions
     {

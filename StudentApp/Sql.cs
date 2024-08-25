@@ -5,9 +5,9 @@ using static LanguageExt.Prelude;
 using System.Data.SQLite;
 using System.Data;
 using System.Data.SqlClient;
-using static StudentApp_FunctionalProgramming_.Prelude;
+using static StudentApp.Prelude;
 
-namespace StudentApp_FunctionalProgramming_
+namespace StudentApp
 {
     using DBInstance = Tuple<IDbConnection, IDbCommand>;
 

@@ -4,9 +4,9 @@ using System.Data.SQLite;
 using System.Data.SqlClient;
 using System.Collections.Generic;
 using LanguageExt;
-using StudentApp_FunctionalProgramming_.Model;
+using StudentApp.Model;
 
-namespace StudentApp_FunctionalProgramming_.Sql
+namespace StudentApp.Sql
 {
     public static class Query
     {

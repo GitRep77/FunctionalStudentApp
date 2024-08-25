@@ -3,9 +3,9 @@ using System.Security.Cryptography;
 using System.Text;
 using LanguageExt;
 using static LanguageExt.Prelude;
-using static StudentApp_FunctionalProgramming_.Prelude;
+using static StudentApp.Prelude;
 
-namespace StudentApp_FunctionalProgramming_
+namespace StudentApp
 {
     public static class Cryptography
     {
