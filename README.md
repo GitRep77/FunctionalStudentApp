@@ -1,5 +1,10 @@
 
-# StudentApp [Functional Programming]
+# StudentApp
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![C# Version](https://img.shields.io/badge/C%23-7.0-blue)
+![.NET Version](https://img.shields.io/badge/.NET-4.7.2-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 ### Overview
 `StudentApp` is an experimental project developed to explore functional programming techniques in C#. The goal of this application is to experiment with functional patterns such as immutability, pure functions, and language constructs like `Either` and `Option` monads from the `LanguageExt` library. The application performs various database operations related to students, subjects, and marks, and it incorporates cryptography utilities as well as various extension methods to facilitate functional programming approaches.
@@ -80,3 +85,19 @@ The following are some examples of what the app does:
 - Expand the database schema to handle more complex relationships.
 - Implement more functional patterns, such as applicatives or higher-kinded types.
 - Improve user interface and add a graphical UI.
+
+- ## Author
+
+This project was created by [Gitrep77](https://github.com/Gitrep77). If you find it helpful, feel free to give a star on the repository!
+
+## Support
+
+For issues or questions, open an issue on the [GitHub repository](https://github.com/Gitrep77/FunctionalStudentApp/issues).
+
+## Contributing
+
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) for more details.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
